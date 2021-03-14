@@ -1,4 +1,5 @@
-#Nubank Clone UI + Animations with React Native
+# Nubank Clone UI + Animations with React Native
+
 ## You can check the video [here](https://www.youtube.com/watch?v=DDm0M_rZLJo)
 
 ## About
